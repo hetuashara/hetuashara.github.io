@@ -30,7 +30,7 @@ var bigfoot = $.bigfoot(
 	actionOriginalFN: "hide",
 	activateOnHover:true,
 	allowMultipleFN:true,
-	deleteOnUnhover:true,
+	deleteOnUnhover:false,
 	hoverDelay: 10,
 	popoverCreateDelay: 10
 }
@@ -68,7 +68,7 @@ var bigfoot = $.bigfoot(
 	actionOriginalFN: "hide",
 	activateOnHover:true,
 	allowMultipleFN:true,
-	deleteOnUnhover:true,
+	deleteOnUnhover:false,
 	hoverDelay: 10,
 	popoverCreateDelay: 10,
 	
@@ -240,31 +240,30 @@ img{
 .stream{
 	text-align: left;
 	clear: both;
-	max-width: 50rem;
-  margin-left: auto;
-  margin-right: auto;
+	max-width: 40rem;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 4rem;
+	padding-left: 20px;
   }
-  
+
 #streamPostDate {
 	font-size: 0.6em;
 	font-weight: 50;
 	font-family: sans-serif;
-	line-height: 3em;
+	
 	color: black;
-	margin-left: 5px;}
-	@media screen and (max-width: 480px)  {
-    #streamPostDate {
-      line-height: 2em; } }
+	
+	}
+	
 #streamPostTitle {
 	padding-left: 5%;
 	font-size: 1.3em;
 	font-weight: 200;
 	font-family: sans-serif;
 	text-align: left;
-	line-height: 3em;}
-	@media screen and (max-width: 480px)  {
-    #streamPostTitle {
-      line-height: 2em; } }
+	
+	}
 #streamPostTitle a{
 	color: black;
 	text-decoration: none;
@@ -329,7 +328,7 @@ img{
 	
 	#articleText li {
 	line-height: 1.75rem;
-	margin: 0.5rem 0 0 0;
+	margin: 0.5rem 0 0 0.7rem;
 	list-style: disc; 
 	}
 	
