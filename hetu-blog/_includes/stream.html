@@ -1,0 +1,23 @@
+
+
+<p class="streamIntro"> Stream of blog posts. </p>
+
+<br><br>
+
+<ul class="stream">
+	
+  {% for post in paginator.posts %}
+  
+    <li>
+    <span id="streamPostDate">
+    	{{ post.date | date_to_long_string }}
+    </span>
+    <span id="streamPostTitle">
+    	<a href="{{ post.url }}">{{ post.title }}
+    </span>
+    
+    </a></li> 
+    
+  {% endfor %}
+  
+</ul>

@@ -1,0 +1,25 @@
+
+
+<p class="streamIntro"> All Travel related blog posts. </p>
+
+<br><br><br><br>
+
+<ul class="stream">
+	
+  {% for post in site.posts limit:50 %}
+  {% if post.category == "travel"%}
+   
+	      <li>
+    <span id="streamPostDate">
+    	{{ post.date | date_to_long_string }}
+    </span>
+    <span id="streamPostTitle">
+    	<a href="{{ post.url }}">{{ post.title }}
+    </span>
+    
+    </a></li> 
+      {%endif%}
+
+  {% endfor %}
+  
+</ul>
