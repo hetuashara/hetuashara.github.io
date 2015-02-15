@@ -32,7 +32,7 @@ layout: null
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ site.url }}{{ post.url }}?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign={{ post.title | replace: ',','' | replace: ' ', '' | xml_escape }}</link>
                 <description>{{ post.content | truncatewords: 50 | strip_html }}</description>
-                <content:encoded><![CDATA[ {{ post.content }} <a href="{{ post.url | prepend: site.url }}">&#9679;</a>]]></content:encoded>
+                <content:encoded><![CDATA[ {{ post.content }} <a href="{{ post.url | prepend: site.url }}">&#42;</a>]]></content:encoded>
                 <guid isPermaLink="false">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
                 {% for tag in post.tags %}
                 <category>{{ tag | xml_escape }}</category>
