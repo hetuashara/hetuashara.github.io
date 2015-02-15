@@ -9,6 +9,8 @@ twitter_username: hetuashara
 github_username:  hetuashara
 paginate: 20
 author: "Hetu Ashara"
+
 # Build settings
 markdown: kramdown
 permalink : /:year/:month/:day/:categories/:title
+analytics: UA-59777951-1
