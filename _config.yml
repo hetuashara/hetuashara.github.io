@@ -8,6 +8,7 @@ url: "http://hetus.net" # the base hostname & protocol for your site
 twitter_username: hetuashara
 github_username:  hetuashara
 paginate: 20
+author: "Hetu Ashara"
 # Build settings
 markdown: kramdown
 permalink : /:year/:month/:day/:categories/:title
