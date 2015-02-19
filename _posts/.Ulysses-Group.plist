@@ -4,12 +4,6 @@
 <dict>
 	<key>createMarkedFile</key>
 	<false/>
-	<key>sheetClusters</key>
-	<array>
-		<array>
-			<string>2015-02-16-My-Trek-of-Nag-Tibba.markdown</string>
-		</array>
-	</array>
 	<key>userIconName</key>
 	<string>Character</string>
 </dict>
