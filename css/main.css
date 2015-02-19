@@ -35,13 +35,7 @@ img{
   }
 
   @media screen and (max-width: 480px)  {
-    img {
-	  max-width: 100%;
-	  
-	  padding-top: 10px;
-	  padding-bottom: 20px;
-	  
-	  margin-left: -1%; } }
+   
   h2{
 	font-size: 1.3em;
 	font-weight: 600;
