@@ -2,12 +2,12 @@
 title: Blog of Hetu Ashara
 name: Blog of Hetu Ashara
 email: ashara.hetu@gmail.com
-description: A personal blog of Hetu Ashara.
+description: A personal blog of Hetu Ashara. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hetus.net" # the base hostname & protocol for your site
+url: "http://hetus.net" #the base hostname & protocol for your site
 twitter_username: hetuashara
 github_username:  hetuashara
-paginate: 20
+paginate: 15
 author: "Hetu Ashara"
 
 # Build settings
