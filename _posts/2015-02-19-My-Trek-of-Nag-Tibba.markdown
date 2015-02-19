@@ -11,7 +11,7 @@ Anyway, let’s dive into the photo journey.
 The scheduled time of departure from Indian Institute of Technology, Roorkee campus was 3 AM[^1]. I reached the place at dot 3 but this is what greeted me.  
 ![](http://hetus.net/images/nt-1.jpg)  
 
-Absolutely no one. The place was dead silent with the wee hour cold and silence. After some worrisome minutes of thinking the trip was cancelled at the last moment for some unknown reason, my fellow trekkers started to arrive. 
+Absolutely no one. The place was dead silent with an early wintery morning cold and silence. After some worrisome minutes of thinking the trip was cancelled at the last moment for some unknown reason, my fellow trekkers started to arrive. 
 ![](http://hetus.net/images/nt-2.jpg)
 Well, that meant the trip was happening but it meant one other thing. The waiting for others, the waiting for bus to arrive, the time it would take to load the luggage meant we were going to be late by atleast two hours. 
 ![](http://hetus.net/images/nt-3.jpg)
