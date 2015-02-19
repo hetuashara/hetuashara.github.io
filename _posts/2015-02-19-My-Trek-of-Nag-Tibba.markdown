@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Trek of Nag Tibba
-categories: travel
+category: travel
 ---
 _Note : I was going to write a full blown article of the trip but then decided against it. Let us be honest you are just interested in the pics. So I decided to create a photo journey thing. Also, this page has a lot of images, 33 to be precise, I have kept the resolution of images as low as possible thus making the image sizes small so that it doesn’t bog down your browser. If you are on a slow internet please give time for the images to load. If you would like to see bigger images then just use the zoom buttons of your browser._  
 __All images have been edited to varying degrees.__
