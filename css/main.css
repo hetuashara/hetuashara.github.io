@@ -29,7 +29,7 @@ img{
   padding-top: 10px;
   position: relative;
   align:center; 
-  border-radius: .25rem;
+  border-radius: 5px;
   }
   @media screen and (max-width: 480px)  {
     img {
