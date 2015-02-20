@@ -3,7 +3,7 @@ layout: post
 title: My Trek of Nag Tibba
 category: travel
 ---
-_Note : I was going to write a full blown article of the trip but then decided against it. Let us be honest you are just interested in the pics. So I decided to create a photo journey thing. Also, this page has a lot of images, 33 to be precise. I have kept the resolution of images as low as possible thus making the image sizes small so that it doesn’t bog down your browser. If you are on a slow internet please give time for the images to load. If you would like to see bigger images then just use the zoom buttons of your browser._  
+_Note : I was going to write a full blown article of the trip but then decided against it. Let us be honest you are just interested in the pics. So I decided to create a photo journey thing. Also, this page has a lot of images, 30 to be precise. I have kept the resolution of images as low as possible thus making the image sizes small so that it doesn’t bog down your browser. If you are on a slow internet please give time for the images to load. If you would like to see bigger images then just use the zoom buttons of your browser._  
 __All images have been edited to varying degrees.__
 
 I went back-and-forth trying to decide the proper preposition for the title. Should it be trek __of__ Nag Tibba or trek __to__ Nag Tibba. You see the reason I was/am in confusion is because the path of trek itself is called Nag Tibba and the end of the trek is the Nag Tibba temple.  
@@ -34,9 +34,6 @@ The lush slopes of the mountains were a treat to watch. The beauty of the scener
 ![](http://hetus.net/images/nt-9.jpg)
 We reached the camp site just at the start of the golden hour. Best to get clicking.
 ![](http://hetus.net/images/nt-13.jpg)
-![](http://hetus.net/images/nt-14.jpg)
-![](http://hetus.net/images/nt-15.jpg)
-![](http://hetus.net/images/nt-16.jpg)
 ![](http://hetus.net/images/nt-17.jpg)
 It was one of the best sunsets I have seen in a while.
 ![](http://hetus.net/images/nt-18.jpg)
