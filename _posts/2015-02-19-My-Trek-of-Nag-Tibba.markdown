@@ -70,7 +70,6 @@ The dinner was at this place. The food was decent enough or atleast I thought so
 and more adventures like this in the future.  
   
   
-I am always eager to hear back from you. Feel free to [contact me](http://http://hetus.net/contact.html "Contact Hetu directly.").
 
 [^1]:	31st January 2015
 
