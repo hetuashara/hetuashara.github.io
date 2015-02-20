@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Young parenthood and personal sacrifice
+title:Young parenthood and personal sacrifice
 category: comics
 published: true
 ---  
