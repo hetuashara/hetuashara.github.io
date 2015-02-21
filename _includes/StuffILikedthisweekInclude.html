@@ -7,16 +7,21 @@
 	font-weight: 900;
 	letter-spacing: 3px;
 	}
+  #articleText li {
+  line-height: 1.75rem;
+  margin: 0.5rem 0 0 -0.4rem;
+  list-style: disc; 
+  }
 </style>
 
-<p class="streamIntro"> I post a collection of stuff I liked from the week, every Sunday. </p>
+<p class="streamIntro"> I post a collection of stuff I found and liked every week, every Sunday. </p>
 
 <br><br><br><br>
 
 <ul class="stream">
 	
   {% for post in site.posts limit:20 %}
-  {% if post.category == "Stuff-I-Liked-This-Week"%}
+  {% if post.category == "stuff"%}
    
 	      <li>
     <span id="streamPostDate">
