@@ -22,20 +22,7 @@
 	<meta name="msapplication-TileImage" content="/favicon/favicon-144.png">
 	<meta name="msapplication-config" content="/browserconfig.xml">
 <script type="text/javascript" src="/js/jquery-1.11.2.min.js"></script>
-jQuery(function($){
-    //Replace your domain name here
-	var domain="hetus.net";    
-	
-	//Takes care of http
-	$('a[href^="http://"]')
-		.not('[href*="'+domain+'"]')
-		.attr('target','_blank');
-		
-	//Takes care of https	
-	$('a[href^="https://"]')
-		.not('[href*="'+domain+'"]')
-		.attr('target','_blank');
-});​
+<script type="text/javascript" src="/js/external_links.js"></script>
  <script type="text/javascript" src="/js/bigfoot.js"></script>
  <link rel="stylesheet" type="text/css" href="/css/bigfoot-number.css">
  <script type="text/javascript">
