@@ -1,3 +1,11 @@
-$(document.links).filter(function() {
-    return this.hostname = window.location.hostname;
-}).attr('target', '_blank');
+var domain="hetus.net";    
+  
+  //Takes care of http
+  $('a[href^="http://"]')
+    .not('[href*="'+domain+'"]')
+    .attr('target','_blank');
+    
+  //Takes care of https 
+  $('a[href^="https://"]')
+    .not('[href*="'+domain+'"]')
+    .attr('target','_blank');
