@@ -2,7 +2,7 @@
 layout: post
 title: Stuff I liked this week
 category: stuff  
-published: false 
+published: true 
 ---
 
 #Stuff to read  
@@ -16,22 +16,26 @@ published: false
 - [Sexism and the woman with highest IQ in the world](http://priceonomics.com/the-time-everyone-corrected-the-worlds-smartest/) - I knew about the Monty Hall problem but didn't knew people had dragged it too through the cesspool of sexism.
 - [Was Bra-ced For A Different Reaction](http://notalwayslearning.com/was-bra-ced-for-a-different-reaction/36792) - An excellent anecdote which illustrates how society sometimes fails to identify/curb sexual assailants.          
 - [Democracy Is in Recession](http://www.nytimes.com/2015/02/18/opinion/thomas-friedman-democracy-is-in-recession.html)
-- [President’s Day fact of the day](http://marginalrevolution.com/marginalrevolution/2015/02/presidents-day-fact-of-the-day.html) -  The first president of USA was not as good a man as you would think, if you consider the way he used slavery laws.
-- [Google and blogs: “Shit.”](http://www.marco.org/2015/02/16/google-and-blogs-shit) - Lot of things in the article are the reasons I decided to start my own blog.
+- [President’s Day fact of the day](http://marginalrevolution.com/marginalrevolution/2015/02/presidents-day-fact-of-the-day.html) -  The first president of USA was not as good a man as you would think, if you consider the way he (mis)used slavery laws.
+- [Google and blogs:“Shit.”](http://www.marco.org/2015/02/16/google-and-blogs-shit) - Lot of things in the article are the reasons I decided to start my own blog.
 - [Harari on the great divergence](http://lukemuehlhauser.com/harari-on-the-great-divergence/) - ‘Biology enables, Culture forbids.’ A must read.
 - [Why Google Web Fonts aren’t really open source](http://typographyforlawyers.com/why-google-web-fonts-arent-really-open-source.html) - Add one more thing that makes Google more creepy.  
 - [Artificial Intelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - I knew much of the things in this long essay on AI but the lucid fun style of writing gripped me through the entire text.   
-- [One Ring explainer](http://kottke.org/15/02/lotrs-one-ring-explainer) - I will not ruin this for you. Just go and read it. It is a short article.
+- [One Ring explainer](http://kottke.org/15/02/lotrs-one-ring-explainer) - I will not ruin this for you. Even if you not a huge Lord of the Rings fan, just go and read it. It is a short article.
   
 #Stuff to watch    
 - White Christmas. First episode of the third season of Black Mirror. Don't research it. You will just encounter spoilers. Just go watch it.
-- [Dubai Flow Motion](https://vimeo.com/117770305) - Rarely do we come across such awesome hyperlapse videos.  
+- [Dubai Flow Motion](https://vimeo.com/117770305) - Rarely do we come across such awesome hyperlapse videos.    
+- [The Nature Of Creation In The Boxtrolls](https://www.youtube.com/watch?v=gYFNsXlbVto#t=141) - Quality creation is always a meticulously tedious job. Wait till you watch and understand how true that is for making an animation movie like The Boxtrolls.
 - [Planet Iceland] (https://vimeo.com/114108421) - A uniquely narrated tour of Iceland.  
-- [Tokyo](https://vimeo.com/94579777) - Same guy from above. This time in Tokyo.    
+- [Tokyo](https://vimeo.com/94579777) - Same guy from above. This time in Tokyo.   
+- [The Compendium of Invented Words](https://www.youtube.com/playlist?list=PLCXinA-ukN0rxft8oNal97bH3FfRzSZXZ) - An absolutely amazing series of beautifully done videos.     
+- [Will We Ever Run Out of New Music?](https://www.youtube.com/watch?v=DAcjV60RnRw)
 
 #Stuff to hear  
 - [What kind of Man](https://www.youtube.com/watch?v=XgeKHTcufLY) by Lorence+The Machine
-- [Mile High](https://www.youtube.com/watch?v=KR2a3tg6V0g) by Brooklynn
+- [Mile High](https://www.youtube.com/watch?v=KR2a3tg6V0g) by Brooklynn    
+- [The Weekend](https://www.youtube.com/watch?v=ECFSNeQjRuM) by Eden xo
 - [Tell her you love her] (https://www.youtube.com/watch?v=q-iPTDYPx2k) by Echosmith    
 - _Podcast Episode_ : [Travel’s Priceless Moments](http://thebudgetmindedtraveler.com/story-time-travels-priceless-moments/)   
 - _Podcast Episode_ : [Motorcycle Diaries From Around The World With Allan Karl](http://www.extrapackofpeanuts.com/allan-karl/)    
