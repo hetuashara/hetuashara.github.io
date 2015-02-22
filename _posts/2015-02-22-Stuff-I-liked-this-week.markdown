@@ -7,7 +7,8 @@ published: true
 
 #Stuff to read  
 - [Don’t follow your heroes](http://justinjackson.ca/heroes/) - Blindly following anyone is bad. Here is why doing so of personal heroes is wrong.
-- [Black Cards: All the Lies You Need to Love](http://www.fsgworkinprogress.com/2015/02/black-cards-all-the-lies-you-need-to-love/) - A wife interviews his husband regarding his latest new book on relationships. The interview conversation is not that great but the concept used is interesting from the marketing perspective. 
+- [Black Cards: All the Lies You Need to Love](http://www.fsgworkinprogress.com/2015/02/black-cards-all-the-lies-you-need-to-love/) - A wife interviews his husband regarding his latest new book on relationships. The interview conversation is not that great but the concept used is interesting from the marketing perspective.   
+- [How the Photocopier Changed the Way We Worked—and Played](http://www.smithsonianmag.com/history/duplication-nation-3D-printing-rise-180954332/?all&no-ist) - Next I would like to read a detailed account of how email destroyed photocopying.
 - [A brief history of USB, what it replaced, and what has failed to replace it](http://arstechnica.com/gadgets/2014/08/a-brief-history-of-usb-what-it-replaced-and-what-has-failed-to-replace-it/) 
 - [USB 3.1 and Type-C](http://arstechnica.com/gadgets/2015/01/usb-3-1-and-type-c-the-only-stuff-at-ces-that-everyone-is-going-to-use/) - Usb is evolving and not ready to die. 
 - [From a Private School in Cairo to ISIS Killing Fields in Syria](http://www.nytimes.com/2015/02/19/world/middleeast/from-a-private-school-in-cairo-to-isis-killing-fields-in-syria-video.html?_r=0) - Friends and family recount the story of how a young boy they knew turned into a terrorsit over a span of few years. Guns and bombs won't stop terrorism , stopping boys like these from becoming one will. 
