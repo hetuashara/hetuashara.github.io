@@ -36,7 +36,7 @@ published: true
 - [What kind of Man](https://www.youtube.com/watch?v=XgeKHTcufLY) by Lorence+The Machine
 - [Mile High](https://www.youtube.com/watch?v=KR2a3tg6V0g) by Brooklynn    
 - [The Weekend](https://www.youtube.com/watch?v=ECFSNeQjRuM) by Eden xo
-- [Tell her you love her] (https://www.youtube.com/watch?v=q-iPTDYPx2k) by Echosmith    
+- [Tell her you love her](https://www.youtube.com/watch?v=q-iPTDYPx2k) by Echosmith    
 - _Podcast Episode_ : [Travel’s Priceless Moments](http://thebudgetmindedtraveler.com/story-time-travels-priceless-moments/)   
 - _Podcast Episode_ : [Motorcycle Diaries From Around The World With Allan Karl](http://www.extrapackofpeanuts.com/allan-karl/)    
         
