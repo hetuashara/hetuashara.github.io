@@ -28,7 +28,7 @@ published: true
 - White Christmas. First episode of the third season of Black Mirror. Don't research it. You will just encounter spoilers. Just go watch it.
 - [Dubai Flow Motion](https://vimeo.com/117770305) - Rarely do we come across such awesome hyperlapse videos.    
 - [The Nature Of Creation In The Boxtrolls](https://www.youtube.com/watch?v=gYFNsXlbVto#t=141) - Quality creation is always a meticulously tedious job. Wait till you watch and understand how true that is for making an animation movie like The Boxtrolls.
-- [Planet Iceland] (https://vimeo.com/114108421) - A uniquely narrated tour of Iceland.  
+- [Planet Iceland](https://vimeo.com/114108421) - A uniquely narrated tour of Iceland.  
 - [Tokyo](https://vimeo.com/94579777) - Same guy from above. This time in Tokyo.   
 - [The Compendium of Invented Words](https://www.youtube.com/playlist?list=PLCXinA-ukN0rxft8oNal97bH3FfRzSZXZ) - An absolutely amazing series of beautifully done videos.     
 - [Will We Ever Run Out of New Music?](https://www.youtube.com/watch?v=DAcjV60RnRw)
