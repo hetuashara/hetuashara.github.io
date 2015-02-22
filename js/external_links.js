@@ -1,13 +1,7 @@
-jQuery(function($){
-  var domain="hetus.net";    
-  
-  //Takes care of http
-  $('a[href^="http://"]')
-    .not('[href*="'+domain+'"]')
-    .attr('target','_blank');
-    
-  //Takes care of https 
-  $('a[href^="https://"]')
-    .not('[href*="'+domain+'"]')
-    .attr('target','_blank');
-    });​
+$(document).ready(function() { 
+  $("a[href^=http]").each(function(){ 
+    if(this.href.indexOf(location.hostname) == -1) { 
+      $(this).attr({ target: "_blank" });
+     } 
+  })
+});
