@@ -1,4 +1,5 @@
-var domain="hetus.net";    
+jQuery(function($){
+  var domain="hetus.net";    
   
   //Takes care of http
   $('a[href^="http://"]')
@@ -9,3 +10,4 @@ var domain="hetus.net";
   $('a[href^="https://"]')
     .not('[href*="'+domain+'"]')
     .attr('target','_blank');
+    });​
