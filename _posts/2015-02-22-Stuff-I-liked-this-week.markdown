@@ -33,7 +33,7 @@ published: true
 - [The Compendium of Invented Words](https://www.youtube.com/playlist?list=PLCXinA-ukN0rxft8oNal97bH3FfRzSZXZ) - An absolutely amazing series of beautifully done videos.     
 - [Will We Ever Run Out of New Music?](https://www.youtube.com/watch?v=DAcjV60RnRw)
 
-#Stuff to hear  
+#Stuff to listen  
 - [What kind of Man](https://www.youtube.com/watch?v=XgeKHTcufLY) by Lorence+The Machine
 - [Mile High](https://www.youtube.com/watch?v=KR2a3tg6V0g) by Brooklynn    
 - [The Weekend](https://www.youtube.com/watch?v=ECFSNeQjRuM) by Eden xo
