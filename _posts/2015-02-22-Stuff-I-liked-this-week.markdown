@@ -22,7 +22,7 @@ published: true
 - [Harari on the great divergence](http://lukemuehlhauser.com/harari-on-the-great-divergence/) - ‘Biology enables, Culture forbids.’ A must read.
 - [Why Google Web Fonts aren’t really open source](http://typographyforlawyers.com/why-google-web-fonts-arent-really-open-source.html) - Add one more thing that makes Google more creepy.  
 - [Artificial Intelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - I knew much of the things in this long essay on AI but the lucid fun style of writing gripped me through the entire text.   
-- [One Ring explainer](http://kottke.org/15/02/lotrs-one-ring-explainer) - I will not ruin this for you. Even if you not a huge Lord of the Rings fan, just go and read it. It is a short article.
+- [One Ring explainer](http://kottke.org/15/02/lotrs-one-ring-explainer) - I will not ruin this for you. Even if you are not a huge Lord of the Rings fan, just go and read it. It is a short article.
   
 #Stuff to watch    
 - White Christmas. First episode of the third season of Black Mirror. Don't research it. You will just encounter spoilers. Just go watch it.
