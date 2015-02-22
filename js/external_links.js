@@ -1,7 +1,3 @@
-$(document).ready(function() { 
-    $("a[href^=http]").each(function(){ 
-        if(this.href.indexOf(location.hostname) == -1) { 
-            $(this).attr({ target: "_blank" });
-         } 
-    })
-});
+(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+}).attr('target', '_blank');
