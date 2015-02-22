@@ -130,7 +130,7 @@ h1{
 	padding-top: 20px;
 	display: block; 
 	clear: both;
-	letter-spacing: 3px;}
+	letter-spacing: 1px;}
 	@media screen and (max-width: 480px)  {
     .streamIntro {
       padding-top: 25px;} }
