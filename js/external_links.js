@@ -1,7 +1,3 @@
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   } 
-}
+$(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+}).attr('target', '_blank');
