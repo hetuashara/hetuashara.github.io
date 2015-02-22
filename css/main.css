@@ -46,6 +46,12 @@ h2{
 	font-size: 1.3em;
 	font-weight: 600;
 }
+h1{
+	padding-top: 25px;
+	padding-bottom: 1px;
+	font-size: 1.5em;
+	font-weight: 900;
+}
 .hi{
 	color: white;
 	background-color: #000000;
