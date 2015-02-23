@@ -85,7 +85,7 @@ h1{
 .topNav ul{
 	margin-left: auto;
 	margin-right:auto;  
-	clear: both;
+	text-align: center;
 }
 
 .topNav ul li{
