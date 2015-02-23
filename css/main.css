@@ -84,6 +84,7 @@ h1{
 	}
 .topNav{
     width:100%;
+    margin-bottom: -50px;
 }
 .topNav ul{
 	text-align:center;
