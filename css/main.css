@@ -85,13 +85,14 @@ h1{
 .topNav ul{
 	margin-left: auto;
 	margin-right:auto;  
+	clear: both;
 }
 
 .topNav ul li{
 	float: left;
 	margin-left: auto;
 	margin-right:auto;
-	clear: both;
+	
 	text-align: center;
 	font-size : 1em;
 	font-weight: 400;
