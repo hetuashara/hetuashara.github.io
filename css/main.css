@@ -83,15 +83,13 @@ h1{
 	
 	}
 .topNav ul{
-	margin-left: auto;
-	margin-right:auto;  
+	 
 	text-align: center;
 }
 
 .topNav ul li{
 	float: left;
-	margin-left: auto;
-	margin-right:auto;
+
 	
 	text-align: center;
 	font-size : 1em;
