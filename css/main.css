@@ -83,13 +83,12 @@ h1{
 	
 	}
 .topNav ul{
-	margin-left: auto;
-	margin-right:auto; 
+	 
 	max-width: 45rem; 
 }
 
 .topNav ul li{
-	float: left;
+	
 	font-size : 1em;
 	font-weight: 400;
 	font-family: sans-serif;
