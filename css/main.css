@@ -89,7 +89,7 @@ h1{
 
 .topNav ul li{
 	
-	
+	clear: both;
 	text-align: center;
 	font-size : 1em;
 	font-weight: 400;
