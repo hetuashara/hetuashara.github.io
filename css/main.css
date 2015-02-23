@@ -84,7 +84,9 @@ h1{
 	}
 .topNav ul{
 	margin-left: auto;
-	margin-right:auto;  
+	margin-right:auto; 
+	display: block; 
+	clear: both; 
 }
 
 .topNav ul li{
