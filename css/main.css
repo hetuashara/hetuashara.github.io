@@ -83,20 +83,18 @@ h1{
 	
 	}
 .topNav ul{
-	
-	text-align: center;
+	margin-left: auto;
+	margin-right:auto;  
 }
 
 .topNav ul li{
-	
-	clear: both;
-	text-align: center;
+	float: left;
 	font-size : 1em;
 	font-weight: 400;
 	font-family: sans-serif;
-	
+	margin: 0em auto em auto;
 	padding: 20px 1em 0px 1em;
-	
+	text-align: center;
 	letter-spacing: 2px;
 	
 	
