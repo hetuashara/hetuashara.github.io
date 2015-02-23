@@ -83,7 +83,6 @@ h1{
 	
 	}
 .topNav{
-	
     width:100%;
 }
 .topNav ul{
@@ -93,11 +92,10 @@ h1{
 .topNav ul li{
 	display:inline-block;
    	position: relative;
-   	height: auto;
+   	
    	list-style: none;
-    text-align: center;
-    white-space: nowrap;
-	
+   	 text-align: center;
+    	white-space: nowrap;
 	font-size : 1em;
 	font-weight: 400;
 	font-family: sans-serif;
