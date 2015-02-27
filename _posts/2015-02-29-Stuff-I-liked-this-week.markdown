@@ -13,7 +13,8 @@ published: false
 - [Finding Love After a Heart Transplant](https://www.youtube.com/watch?v=evzw1QzzGg8)
 #Stuff to listen  
 - [Just press send](http://www.roughtype.com/?p=5631)  
-- [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/index.php?id=3652#comic)  
+- [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/index.php?id=3652#comic)    
+- [A simple guide to washing machine symbols](https://twitter.com/TechnicallyRon/status/570965607971209216/photo/1)
 - 
 #Apps
 - quiver mac app   
