@@ -225,30 +225,30 @@ h1{
   letter-spacing: 0.5px;
 }
 
-	#articleText li ol, li ul {
-	  margin-bottom: 0; }
-	  
-	#articleText p {
-	margin: 1rem 0; }
-	
-	#articleText ul, ol {
-	margin: 0.5rem 0 0 0;
-	}
-	
-	#articleText li {
-	line-height: 1.75rem;
-	margin: 0.5rem 0 0 0.7rem;
-	list-style: disc; 
-	
-	}
-	
-	#articleText hr {
-	border: 0;
-	border-bottom: 1px dashed #000000; }
-	
-	#articleText .footnotes ol li {
-	  line-height: 1.5rem; }
-	
+#articleText li ol, li ul {
+  margin-bottom: 0; }
+  
+#articleText p {
+margin: 1rem 0; }
+
+#articleText ul, ol {
+margin: 0.5rem 0 0 0;
+}
+
+#articleText li {
+line-height: 1.75rem;
+margin: 0.5rem 0 0 0.7rem;
+list-style: disc; 
+
+}
+
+#articleText hr {
+border: 0;
+border-bottom: 1px dashed #000000; }
+
+#articleText .footnotes ol li {
+  line-height: 1.5rem; }
+
 
 blockquote{
 	
