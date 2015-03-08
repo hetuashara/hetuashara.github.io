@@ -16,4 +16,7 @@ If you want more stuff to check out, you can always go back to the [last weeks' 
 
 #Stuff to watch
 - Reflections by MisterWives [(Lyric Video)](https://www.youtube.com/watch?v=epk1Uc-yLi4) [(NY Edition)](https://www.youtube.com/watch?v=IuEkqldx9e4)    
-- House of Cards season 3 - Not as captivating as the first two seasons but still a great watch. I finished first two seasons in one session each. The third one took two. So, there's that.
+- House of Cards season 3 - Not as captivating as the first two seasons but still a great watch. I finished first two seasons in one session each. The third one took two. So, there's that.  
+   
+#Stuff to listen  
+- If you like world politics and/or enjoyed the House of Cards season 3's  to and fro of the Russian and USA presidents then you should check out the real world equivalent nicely narrated in [this podcast episode](http://www.dancarlin.com/product/common-sense-288-re-heating-cold-war).   
