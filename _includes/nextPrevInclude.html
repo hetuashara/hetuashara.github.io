@@ -8,10 +8,16 @@
 }
 
 .pagination	ul li {
+		display:inline-block;
+	   	position: relative;
+	   	
+	   	list-style: none;
+	   	text-align: center;
+	    	white-space: nowrap;
+
 		float: left;
 		max-width: 37rem;
-		margin-left: 40%;
-		margin-right: auto;}
+		}
 	@media screen and (max-width: 480px)  {
       .pagination	ul li {
 	    margin-left: 0%; 
@@ -101,6 +107,7 @@
         <li class="n"><span class="disabled">Next Page</span></li>
         {% endif %}
       </ul>
-      <br><br>
+
     </div>
+     <br><br>
  
