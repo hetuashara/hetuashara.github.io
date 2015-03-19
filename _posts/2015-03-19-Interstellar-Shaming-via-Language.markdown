@@ -32,28 +32,35 @@ Hindi:
 
 >Greetings from the inhabitants of this world.  
 
- Kannada:
+ Kannada:  
+ 
 >Greetings. On behalf of Kannada-speaking people, 'good wishes.    
 
-Marathi:  
+Marathi:    
+
 >Greetings. The people of the Earth send their good wishes.      
 
-Oriya:  
+Oriya:    
+
 >Greetings to the inhabitants of the universe from the third planet Earth of the star Sun.      
 
-Punjabi:
+Punjabi:  
+
 >Welcome home. It is a pleasure to receive you.    
 
-Rajasthani:    
+Rajasthani:      
+
 >Hello to everyone. We are happy here and you be happy there.      
 
-Telugu  
+Telugu:  
+  
 >Greetings. Best wishes from Telugu-speaking people.    
     
 Did you find anything awry in the greetings from couple of languages?   
 Ok. I will give you a hint. They are Kannada and Telugu.  
   
-That's right. Those languages have   
+That's right. Those languages have     
+
 >on behalf of Kannada-speaking people      
   
 
