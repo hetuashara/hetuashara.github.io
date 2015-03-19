@@ -4,7 +4,7 @@ title: Interstellar shaming via language
 category: miscellaneous
 published: true
 ---      
-Recently, I have been watching old episodes of the Youtube channel [Vsauce](https://www.youtube.com/user/Vsauce). Today I saw this one - [Lonely](https://www.youtube.com/watch?v=_QPcclYWOr4). Like every other Vsauce video, it's a great one. In it Michael mentions [Golden Record](http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html), something I have know since long but never knew it in great detail. My curiosity peaked after watching the video and there was a link in its description. I dived right down the rabbit hole.      
+Recently, I have been watching old episodes of the Youtube channel [Vsauce](https://www.youtube.com/user/Vsauce). Today I saw this one - [Lonely](https://www.youtube.com/watch?v=_QPcclYWOr4). Like every other Vsauce video, it's a great one. In it Michael mentions [Golden Record](http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html), something I have known since long but never knew it in great detail. My curiosity peaked after watching the video and there was a link in its description. I dived right down the rabbit hole.      
   
 
 Contents of the [Voyager - The Interstellar Mission](http://voyager.jpl.nasa.gov/spacecraft/goldenrec_bg.html):  
@@ -20,13 +20,16 @@ I was disappointed. Ashamed. A lot.
 
 9 out of the 55 languages were Indian regional languages. The messages in those languages are shown below. Read them and see if you can feel the same disappointment and shamefulness.  
 
-Bengali:  
+Bengali:    
+
 >Hello! Let there be peace everywhere.  
   
-Gujarati:
+Gujarati:  
+
 >Greetings from a human being of the Earth. Please contact.     
  
-Hindi:  
+Hindi:    
+
 >Greetings from the inhabitants of this world.  
 
  Kannada:
