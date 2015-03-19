@@ -7,8 +7,9 @@ published: true
 Recently, I have been watching old episodes of the Youtube channel [Vsauce](https://www.youtube.com/user/Vsauce). Today I saw this one - [Lonely](https://www.youtube.com/watch?v=_QPcclYWOr4). Like every other Vsauce video, it's a great one. In it Michael mentions [Golden Record](http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html), something I have know since long but never knew it in great detail. My curiosity peaked after watching the video and there was a link in its description. I dived right down the rabbit hole.      
   
 
-Contents of the [Voyager - The Interstellar Mission](http://voyager.jpl.nasa.gov/spacecraft/goldenrec_bg.html):
-> A golden phonograph record was attached to each of the Voyager spacecraft that were launched almost 25 years ago. One of the purposes was to send a message to extraterrestrials who might find the spacecraft as the spacecraft journeyed through interstellar space. In addition to pictures and music and sounds from earth, greetings in 55 languages were included.    
+Contents of the [Voyager - The Interstellar Mission](http://voyager.jpl.nasa.gov/spacecraft/goldenrec_bg.html):  
+
+>A golden phonograph record was attached to each of the Voyager spacecraft that were launched almost 25 years ago. One of the purposes was to send a message to extraterrestrials who might find the spacecraft as the spacecraft journeyed through interstellar space. In addition to pictures and music and sounds from earth, greetings in 55 languages were included.    
     
 I perused through the various songs, pictures, sounds, and music that were sent into space. All great choices, trying to be as encompassing as possible, trying to give as small a gist of human life on Earth as possible.     
   
@@ -20,40 +21,40 @@ I was disappointed. Ashamed. A lot.
 9 out of the 55 languages were Indian regional languages. The messages in those languages are shown below. Read them and see if you can feel the same disappointment and shamefulness.  
 
 Bengali:  
-> Hello! Let there be peace everywhere.  
+>Hello! Let there be peace everywhere.  
   
 Gujarati:
-> Greetings from a human being of the Earth. Please contact.     
+>Greetings from a human being of the Earth. Please contact.     
  
 Hindi:  
-> Greetings from the inhabitants of this world.  
+>Greetings from the inhabitants of this world.  
 
  Kannada:
-> Greetings. On behalf of Kannada-speaking people, 'good wishes.    
+>Greetings. On behalf of Kannada-speaking people, 'good wishes.    
 
 Marathi:  
-> Greetings. The people of the Earth send their good wishes.      
+>Greetings. The people of the Earth send their good wishes.      
 
 Oriya:  
->  Greetings to the inhabitants of the universe from the third planet Earth of the star Sun.      
+>Greetings to the inhabitants of the universe from the third planet Earth of the star Sun.      
 
-Punjabi
-> Welcome home. It is a pleasure to receive you.    
+Punjabi:
+>Welcome home. It is a pleasure to receive you.    
 
 Rajasthani:    
-> Hello to everyone. We are happy here and you be happy there.      
+>Hello to everyone. We are happy here and you be happy there.      
 
 Telugu  
-> Greetings. Best wishes from Telugu-speaking people.    
+>Greetings. Best wishes from Telugu-speaking people.    
     
 Did you find anything awry in the greetings from couple of languages?   
 Ok. I will give you a hint. They are Kannada and Telugu.  
   
 That's right. Those languages have   
-> on behalf of Kannada-speaking people      
+>on behalf of Kannada-speaking people      
   
 
-> from Telugu-speaking people
+>from Telugu-speaking people
   
 in their greetings.     
   
