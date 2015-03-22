@@ -10,7 +10,8 @@ published: true
 - [Analog memory desk](http://kcamara.com/analog-memory-desk) - This is an extremely effective solution for one of the greatest problems for all desk sitters - recording thoughts in an analogue way.    
 - [How Life360 won its patent war](http://arstechnica.com/tech-policy/2015/03/how-life360-won-its-patent-war/) - The tech industry is not all about innovating but also rigmarole of petty law quarrels.
 - [This is one of the most fucked up charts you will see in the foreseeable future.](https://twitter.com/MotherJones/status/577613111101882368/photo/1)    
-- [This is for real and it's amazing.](https://twitter.com/shirazdatta/status/578327555662446592/photo/1)
+- [This is for real and it's amazing.](https://twitter.com/shirazdatta/status/578327555662446592/photo/1)    
+- [This is why Twitter is amazing](https://twitter.com/bilalfarooqui/status/579333216076636161/photo/1)
   
 
 #Stuff to listen
