@@ -18,5 +18,6 @@ published: true
 - [Ignition / Do You](https://www.youtube.com/watch?v=BOMWNgejuPc) by Phoebe Ryan    
 - [5 A.M.](https://www.youtube.com/watch?v=Czry5WyxURE) by Illustrated feat. Brooke Williams
 - [Tidal Wave](https://www.youtube.com/watch?v=Pq9xvb6-NtE) by Illustrated   
-- [Lean On](https://www.youtube.com/watch?v=rn9AQoI7mYU) by Major Lazer & DJ Snake   
+- [Lean On](https://www.youtube.com/watch?v=rn9AQoI7mYU) by Major Lazer & DJ Snake  
+- [Sweet Dreams](https://www.youtube.com/watch?v=nSG-6xc-T4U) by Emily Browning   
 
