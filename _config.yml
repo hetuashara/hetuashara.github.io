@@ -1,8 +1,8 @@
 # Site settings
-title: Blog of Hetu Ashara
-name: Blog of Hetu Ashara
+title: Hetu's net
+name: Hetu's net
 email: hetus.net@gmail.com
-description: A personal blog of Hetu Ashara. 
+description: A personal website of Hetu Ashara. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hetus.net" #the base hostname & protocol for your site
 twitter_username: hetuashara
@@ -12,4 +12,4 @@ author: "Hetu Ashara"
 
 # Build settings
 markdown: kramdown
-permalink : /:year/:month/:day/:categories/:title
+permalink : /:title/:categories/:day/:month/:year

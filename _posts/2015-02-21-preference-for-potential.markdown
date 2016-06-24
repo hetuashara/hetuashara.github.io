@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preference for Potential
-category: miscellaneous
+category: articles
 published: true
 ---  
 Abstract from a paper by [Tomala, Jia, and Norton](http://psycnet.apa.org/psycinfo/2012-18069-001)  reads:     

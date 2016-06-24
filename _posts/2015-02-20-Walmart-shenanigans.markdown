@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Walmart wage increase shenanigans
-category: tech
+category: articles
 ---
 
 Recently, news broke that Walmart will be raising its minimum wage to $9/h, well above the stipulated $7.25 federal minimum wage. I thought the white collars at Wallmart had a change of heart and finally heeded to the protests and rallies of people working on the floor. I was wrong.         

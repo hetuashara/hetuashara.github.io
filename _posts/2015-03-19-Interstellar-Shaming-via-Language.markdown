@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interstellar shaming via language
-category: miscellaneous
+category: articles
 published: true
 ---      
 Recently, I have been watching old episodes of the Youtube channel [Vsauce](https://www.youtube.com/user/Vsauce). Today I saw this one - [Lonely](https://www.youtube.com/watch?v=_QPcclYWOr4). Like every other Vsauce video, it's a great one. In it Michael mentions [Golden Record](http://voyager.jpl.nasa.gov/spacecraft/goldenrec.html), something I have known since long but never knew it in great detail. My curiosity peaked after watching the video and there was a link in its description. I dived right down the rabbit hole.      
