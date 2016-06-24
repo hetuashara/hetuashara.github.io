@@ -1,7 +1,7 @@
 # Site settings
 title: Blog of Hetu Ashara
 name: Blog of Hetu Ashara
-email: ashara.hetu@gmail.com
+email: hetus.net@gmail.com
 description: A personal blog of Hetu Ashara. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hetus.net" #the base hostname & protocol for your site
