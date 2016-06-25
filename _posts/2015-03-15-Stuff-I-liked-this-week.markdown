@@ -4,7 +4,7 @@ title: Stuff I liked this week
 category: stuff
 published: true
 ---
-#Stuff to read 
+# Stuff to read 
 - [False Dichotomies](http://ignorethecode.net/blog/2015/03/07/false_dichotomies/) - Always try to take a step back and judge the situation through a holistic lens.         
 - [How WWI made wristwatches happen](http://boingboing.net/2015/03/04/how-wwi-made-wristwatches-happ.html) - Add one more thing to the long list of gifts from wars.  
 - [Google Search Results, 2015 Edition](https://thomasborowski.de/2015/03/google-search-results-2015-edition/) - Apparently, Google has been promoting social media competitors. I have noticed this too.   
@@ -20,12 +20,12 @@ published: true
 - [Why BuzzFeed is the most important news organization in the world](http://stratechery.com/2015/buzzfeed-important-news-organization-world/)
      
 
-#Stuff to watch
+# Stuff to watch
 - [Still NYC](https://vimeo.com/121450839) - Great concept for street videography.  
 - [The Comma Queen: Series Première](http://www.newyorker.com/culture/culture-desk/the-comma-queen-series-premiere) - I love English grammar, especially the nit-picky details. I think this is going to be a must-watch series.  
 - [The first 360-degree interactive videos have arrived on Youtube](http://petapixel.com/2015/03/13/the-first-360-degree-interactive-videos-have-arrived-on-youtube/)  
 
-#Stuff to listen
+# Stuff to listen
 - [Queens](https://www.youtube.com/watch?v=fdAKP2p0tT8) by MisterWives  
 - [Somebody]( https://www.youtube.com/watch?v=8zqdo_Umd5c ) by Natalie La Rose ft. Jeremih  
 - [Believe](https://www.youtube.com/watch?v=dW6SkvErFEE) by Mumford & Sons    

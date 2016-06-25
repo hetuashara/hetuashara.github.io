@@ -5,7 +5,7 @@ category: stuff
 published: true 
 ---
 
-#Stuff to read  
+# Stuff to read  
 - [Don’t follow your heroes](http://justinjackson.ca/heroes/) - Blindly following anyone is bad. Here is why doing so of personal heroes is wrong.
 - [Black Cards: All the Lies You Need to Love](http://www.fsgworkinprogress.com/2015/02/black-cards-all-the-lies-you-need-to-love/) - A wife interviews his husband regarding his latest new book on relationships. The interview conversation is not that great but the concept used is interesting from the marketing perspective.   
 - [How the Photocopier Changed the Way We Worked—and Played](http://www.smithsonianmag.com/history/duplication-nation-3D-printing-rise-180954332/?all&no-ist) - Next I would like to read a detailed account of how email destroyed photocopying.
@@ -24,7 +24,7 @@ published: true
 - [Artificial Intelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) - I knew much of the things in this long essay on AI but the lucid fun style of writing gripped me through the entire text.   
 - [One Ring explainer](http://kottke.org/15/02/lotrs-one-ring-explainer) - I will not ruin this for you. Even if you are not a huge Lord of the Rings fan, just go and read it. It is a short article.
   
-#Stuff to watch    
+# Stuff to watch    
 - White Christmas. First episode of the third season of Black Mirror. Don't research it. You will just encounter spoilers. Just go watch it.
 - [Dubai Flow Motion](https://vimeo.com/117770305) - Rarely do we come across such awesome hyperlapse videos.    
 - [The Nature Of Creation In The Boxtrolls](https://www.youtube.com/watch?v=gYFNsXlbVto#t=141) - Quality creation is always a meticulously tedious job. Wait till you watch and understand how true that is for making an animation movie like The Boxtrolls.
@@ -33,7 +33,7 @@ published: true
 - [The Compendium of Invented Words](https://www.youtube.com/playlist?list=PLCXinA-ukN0rxft8oNal97bH3FfRzSZXZ) - An absolutely amazing series of beautifully done videos.     
 - [Will We Ever Run Out of New Music?](https://www.youtube.com/watch?v=DAcjV60RnRw)
 
-#Stuff to listen  
+# Stuff to listen  
 - [What kind of Man](https://www.youtube.com/watch?v=XgeKHTcufLY) by Lorence+The Machine
 - [Mile High](https://www.youtube.com/watch?v=KR2a3tg6V0g) by Brooklynn    
 - [The Weekend](https://www.youtube.com/watch?v=ECFSNeQjRuM) by Eden xo
@@ -41,5 +41,5 @@ published: true
 - _Podcast Episode_ : [Travel’s Priceless Moments](http://thebudgetmindedtraveler.com/story-time-travels-priceless-moments/)   
 - _Podcast Episode_ : [Motorcycle Diaries From Around The World With Allan Karl](http://www.extrapackofpeanuts.com/allan-karl/)    
         
-#Apps  
+# Apps  
 - The new iphone calculator app by Tapbots - [Calcbot](https://itunes.apple.com/in/app/calcbot-intelligent-calculator/id376694347?mt=8) is now my new calculator app of choice on iphone.   

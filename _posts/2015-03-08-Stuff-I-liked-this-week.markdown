@@ -8,15 +8,15 @@ This was a busy week -  midterms, binge watch of House of Cards s03 and yet anot
 
 If you want more stuff to check out, you can always go back to the [last weeks' collections](http://hetus.net/Stuff-I-Liked-This-Week.html).
   
-#Stuff to read   
+# Stuff to read   
 - [New Amazing Diet](http://buttersafe.com/2015/03/03/new-amazing-diet/)  
 - [Calvin and Hobbes Comic Strip](http://www.gocomics.com/calvinandhobbes/2015/03/03/)  
 - [Our Blessed Homeland](https://twitter.com/tomgauld/status/571994690289061888/photo/1)  
 - [Mathematical argument debunks motivational poster](https://twitter.com/mathemaniac/status/572004820795576320/photo/1)        
 
-#Stuff to watch
+# Stuff to watch
 - Reflections by MisterWives [(Lyric Video)](https://www.youtube.com/watch?v=epk1Uc-yLi4) [(NY Edition)](https://www.youtube.com/watch?v=IuEkqldx9e4)    
 - House of Cards season 3 - Not as captivating as the first two seasons but still a great watch. I finished first two seasons in one session each. The third one took two. So, there's that.  
    
-#Stuff to listen  
+# Stuff to listen  
 - If you like world politics and/or enjoyed the House of Cards season 3's  to and fro of the Russian and USA presidents then you should check out the real world equivalent nicely narrated in [this podcast episode](http://www.dancarlin.com/product/common-sense-288-re-heating-cold-war).   

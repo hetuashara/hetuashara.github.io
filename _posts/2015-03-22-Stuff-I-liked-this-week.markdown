@@ -4,7 +4,7 @@ title: Stuff I liked this week
 category: stuff
 published: true
 ---
-#Stuff to read 
+# Stuff to read 
 - [21 Photographers Doing Whatever It Takes to Get the Perfect Shot](https://iso.500px.com/21-photographers-doing-whatever-it-takes-to-get-the-perfect-shot/)  
  - [The cure for sidewalk rage is gratitude](http://prime.nautil.us/issue/22/slow/why-your-brain-hates-slowpokes) - The ever fastening society has warped our sense of time.  
 - [Analog memory desk](http://kcamara.com/analog-memory-desk) - This is an extremely effective solution for one of the greatest problems for all desk sitters - recording thoughts in an analogue way.    
@@ -14,7 +14,7 @@ published: true
 - [This is why Twitter is amazing](https://twitter.com/bilalfarooqui/status/579333216076636161/photo/1)
   
 
-#Stuff to listen
+# Stuff to listen
 - _Podcast episode_ : [Censorship in China](http://www.newyorker.com/culture/culture-desk/out-loud-censorship-in-china) - Examination of the effects of censorship in China from a unique perspective - foreign authors.  
 - [Ignition / Do You](https://www.youtube.com/watch?v=BOMWNgejuPc) by Phoebe Ryan    
 - [5 A.M.](https://www.youtube.com/watch?v=Czry5WyxURE) by Illustrated feat. Brooke Williams
