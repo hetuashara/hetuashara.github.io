@@ -14,8 +14,7 @@ published: true
 5. [Why people pay to read The New York Times](https://medium.com/@lydiapolgreen/why-people-pay-to-read-the-new-york-times-60720880e707#.44btm7o1s) - Many insights into today's media business.   
 
 	  > Why should a news consumer lean forward to consume, and pay for, your journalism when so much is available for less money, or worse, for free?  
-
- 	    > We need to get much better at telling our own story. We journalists hope the work speaks for itself. But in a cacophonous world, where stories whiz by on Twitter and Facebook, we need to tell our readers that we are special. That our stories have value.
+            > We need to get much better at telling our own story. We journalists hope the work speaks for itself. But in a cacophonous world, where stories whiz by on Twitter and Facebook, we need to tell our readers that we are special. That our stories have value.
 
 6. [Archiving Our Online Communities](https://medium.com/@craigmod/archiving-our-online-communities-e5868eab4d9a#.1zpl43zx2) - hi.co is shutting down but doing something incredibly new and unique in its wake to preserve the things they published. tldr - They will print all the published articles on the website, including photos, on a small fire and salt-water resistant metal plate that will survive more than ten thousand years, and can be read simply using an optical microscope.
 
