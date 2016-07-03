@@ -6,7 +6,7 @@ published: true
 ---
 # Stuff to read 
 1. [The other side is not dumb](https://medium.com/@SeanBlanda/the-other-side-is-not-dumb-2670c1294063#.f309cmmp7) - A good reminder to not try to humiliate ones with a contradicting opinion by being a sanctimonious arrogant. 
-2. [Bait and Switch: The Failure of Facebook Advertising](https://medium.com/@hunchly/bait-and-switch-the-failure-of-facebook-advertising-an-osint-investigation-37d693b2a858#.z2dwsiygz) - Facebook wants any money it can take. Even the ones from fraudsters. 
+2. [Bait and Switch: The Failure of Facebook Advertising](https://medium.com/@hunchly/bait-and-switch-the-failure-of-facebook-advertising-an-osint-investigation-37d693b2a858#.z2dwsiygz) - Facebook wants money, any money. Even the ones from fraudsters. 
 3. [Ground Control To Silicon Valley](https://www.buzzfeed.com/nitashatiku/ground-control-to-silicon-valley) - Reporter writes about tech-billionaires and their visions for our future that they discussed at the Code conference. As the real power shifted to the oil, metal ore, and train producers some 150 years ago, I think we are going through a similar shift and this time the lords are the tech-billionaires. 
 4. [How <s>Technology</s> Social Media Hijacks People’s Minds](https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.svwo0wmg2) - An ex-google design employee goes into details about how the modern social networks get their hooks into unsuspecting users. The below quoted line is the one that should be drilled into people's mind. 
 
