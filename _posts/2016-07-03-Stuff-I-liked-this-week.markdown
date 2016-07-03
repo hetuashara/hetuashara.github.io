@@ -13,7 +13,7 @@ published: true
     > increasing “time spent” is the currency they compete for.
 5. [Why people pay to read The New York Times](https://medium.com/@lydiapolgreen/why-people-pay-to-read-the-new-york-times-60720880e707#.44btm7o1s) - Many insights into today's media business.   
 
-	  > Why should a news consumer lean forward to consume, and pay for, your journalism when so much is available for less money, or worse, for free?
+	  > Why should a news consumer lean forward to consume, and pay for, your journalism when so much is available for less money, or worse, for free?  
 
  	    > We need to get much better at telling our own story. We journalists hope the work speaks for itself. But in a cacophonous world, where stories whiz by on Twitter and Facebook, we need to tell our readers that we are special. That our stories have value.
 
