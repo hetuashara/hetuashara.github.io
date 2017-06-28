@@ -56,8 +56,6 @@ If you are lucky you may see a wild animal. If you are half-lucky you may have t
 ![](http://hetus.net/images/nt-27.jpg)
 After reaching the Nag Tibba temple, a select few of us continued our trek upwards through a snowy mountain. If you ask me, this was what made the entire trek a full blazing awesome.
 ![](http://hetus.net/images/nt-28.jpg)
-![](http://hetus.net/images/nt-26.jpg)
-My ass went numb after this.[^2] But you need to experience the joy of freezing ass when the leg muscles are already numb from exhaustion.
 ![](http://hetus.net/images/nt-29.jpg)
 On our way down, we traversed the same path. So the scenic views were the same but heh who’s complaining?
 ![](http://hetus.net/images/nt-32.jpg)
@@ -73,5 +71,3 @@ and more adventures like this in the future.
   
 
 [^1]:	31st January 2015
-
-[^2]:	remember I was in shorts.
